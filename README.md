@@ -3,7 +3,7 @@
 These projects were completed during studing at Yandex.Practikun
 
 
-| Project name                    | Description                                    | Libraries used      |
+| Project name                    | Description                                    | Libraries and tools used      |
 | :-------------------------------------- | :------------------------------------------ |:-----------------------------|
 |[Apartment sales-Real estate market analysis][1] | The influence of the area, ceilings, number of rooms, the date of the announcement on the prices of apartments in all the presented settlements and the center of St. Petersburg was revealed to build an automated price determination system to avoid fraud and anomalies. Based on the Yandex.Realty service data, the market value of various types of real estate objects, typical parameters of apartments, depending on the distance from the center, were determined. | Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing, math |
 |[Car price prediction][2] | A used car service is developing an app to attract new customers. In it, you can quickly find out the market value of your car. Analyzed data: technical characteristics, equipment and prices of cars. A model was built to determine the cost of a used car. Numerical methods, approximate calculations, algorithm complexity estimation, gradient descent are used. | Pandas, sklearn, numpy, LightGBM, machine learning, CatBoost |
