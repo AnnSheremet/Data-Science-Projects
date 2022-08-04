@@ -1,26 +1,24 @@
-# Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
+# Apartment sales - Real estate market analysis
 ---
 
-## Задачи проекта:
-Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир
+## Project objectives:
+Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments
 
 ---
-## Навыки и инструменты:
+## Skills and Tools:
 
 * Python
 * Pandas
 * Matplotlib
-* исследовательский анализ данных
-* визуализация данных
-* предобработка данных
+* exploratory data analysis
+* data visualization
+* data preprocessing
 * math
 
 ---
 
-## Описание проекта:
-Проведен исследовательский анализ и предобработка данных для датасета с объявлениями о продаже квартир в Санкт-Петербурге. 
-Выявлены, влияние площади, потолков, количества комнат, даты объявления на цены квартир всех представленных населённых пунктов и центра Санкт-Петербурга для построения автоматизированной системы определения цен во избежание мошенничества и аномалий.
-На основе данных сервиса Яндекс.Недвижимость определена рыночная стоимость
-объектов недвижимости разного типа, типичные параметры квартир, в зависимости от
-удаленности от центра. Проведена предобработка данных. Добавлены новые данные.
-Построены гистограммы, боксплоты, диаграммы рассеивания.
+## Project description:
+Research analysis and data preprocessing for a dataset with advertisements for the sale of apartments in St. Petersburg.
+The influence of the area, ceilings, number of rooms, the date of the announcement on the prices of apartments in all the presented settlements and the center of St. Petersburg was revealed to build an automated price determination system to avoid fraud and anomalies.
+Based on the Yandex.Realty service data, the market value was determined real estate objects of different types, typical parameters of apartments, depending on distance from the center. Data preprocessing has been carried out.
+Histograms, boxplots, scatterplots are constructed.
