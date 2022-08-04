@@ -1,4 +1,4 @@
-# Apartment sales-Real estate market analysis
+# Apartment sales - Real estate market analysis
 ---
 
 ## Project objectives:
